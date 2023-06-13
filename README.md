@@ -1,5 +1,3 @@
-# Luke's dmenu
-
 Extra stuff added to vanilla dmenu:
 
 - reads Xresources (ergo pywal compatible)
